@@ -1,6 +1,6 @@
-# Smart Shop Billing System
+# SmartCart Invoice Manager
 
-Welcome to the Smart Shop Billing System GitHub repository! This repository contains a Python application for managing billing and inventory in a shop. Below is a brief overview of the application's features and how to use it.
+Welcome to the SmartCart Invoice Manager GitHub repository! This repository contains a Python application for managing billing and inventory in a shop. Below is a brief overview of the application's features and how to use it.
 
 ## Features
 
@@ -77,15 +77,4 @@ Contributions to the Smart Shop Billing System are welcome! If you'd like to con
 
 ## Author
 
-This tool is developed by Atul Dattatray Dubal.
-
-## License
-
-This project is licensed under the [Creative Commons Attribution-NonCommercial-NoDerivatives (CC BY-NC-ND) 4.0 International License.](LICENSE).
-
-## Acknowledgements
-
-- [Tkinter](https://docs.python.org/3/library/tkinter.html) - Python's standard GUI (Graphical User Interface) package.
-- [SQLite](https://www.sqlite.org/index.html) - A C-language library that implements a small, fast, self-contained, high-reliability, full-featured, SQL database engine.
-- [PyQRCode](https://pypi.org/project/PyQRCode/) - A QR Code generator library for Python.
-- [ReportLab](https://www.reportlab.com/devspot/) - A Python library for generating PDF documents.
+This tool is developed by Yash Gadre.
