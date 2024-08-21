@@ -11,37 +11,6 @@ Welcome to the SmartCart Invoice Manager GitHub repository! This repository cont
 - **Barcode Generation**: Generates barcodes for products using QR codes.
 - **Database Integration**: Utilizes SQLite for storing product and user data.
 
-## Installation
-
-To run the Smart Shop Billing System locally, follow these steps:
-
-1. Clone this repository to your local machine:
-
-   ```bash
-   git clone https://github.com/Atul-dubal/Python-Billing-System.git
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd smart-shop-billing-system
-   ```
-
-3. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. Run the application:
-
-   ```bash
-   python main.py
-   ```
-## Default Credentials
-Username : admin
-
-Password : admin123
 ## Usage
 
 Upon launching the application, you will be prompted to log in with your username and password. Once logged in, you can access the dashboard, add products to the inventory, and generate invoices for purchases.
